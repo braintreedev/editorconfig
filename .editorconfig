@@ -15,5 +15,6 @@ trim_trailing_whitespace = false
 [*.js]
 
 [*.rb]
+indent_size = 2
 
 [*.php]
